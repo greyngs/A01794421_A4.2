@@ -1,1 +1,2 @@
-# A4.2
+# 4.2 Ejercicio de programación 1
+The implemented programs have received a rating of 9.86/10 because while Pylint suggests using snake_case for the file name, it's important to note that the specific file name is dictated by the project requirements. This is the only deviation; however, it doesn't pose any substantial issues.
