@@ -14,7 +14,7 @@ def main():
     """
     start_time = time.time()
     if len(sys.argv) != 2:
-        print("Usage: python computeStatistics.py fileWithData.txt")
+        print("Usage: python word_count.py fileWithData.txt")
         sys.exit(1)
 
     occurrences = {}

@@ -92,7 +92,7 @@ def main():
     """
     start_time = time.time()
     if len(sys.argv) != 2:
-        print("Usage: python computeStatistics.py fileWithData.txt")
+        print("Usage: python convert_numbers.py fileWithData.txt")
         sys.exit(1)
 
     file_path = sys.argv[1]
